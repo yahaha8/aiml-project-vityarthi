@@ -15,12 +15,6 @@ displays multiple weather details
 handles wrong place name
 allows user to exit the program
 
-#How to run the project
-Step 1 Download or clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-Step 2 Open terminal in that folder
-Step 3 Run the program
-python app.py
 
 ##How to use
 After running the program you will see
